@@ -1,4 +1,4 @@
-![Emmet ITCSS Logo]()
+![Emmet ITCSS Logo](https://raw.githubusercontent.com/scriptex/itcss-emmet-snippets/master/assets/emmet-itcss.svg?sanitize=true)
 
 # ITCSS Emmet Snippets
 
