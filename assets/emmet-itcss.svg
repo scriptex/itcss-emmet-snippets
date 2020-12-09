@@ -1,47 +1,66 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="732" height="438" viewBox="0 0 732 438">
-  <g fill="none" fill-rule="evenodd" transform="translate(2 1)">
-    <polygon fill="#FFF" fill-rule="nonzero" stroke="#000" stroke-width="3" points="250.6 433.51 .6 .5 500.6 .5"/>
-    <path stroke="#000" stroke-width="3" d="M35.82 61.5L465.38 61.5M71.46 124L429.29 124M107.99 186.51L393.21 186.51M144.07 249.01L357.12 249.01M180.16 311.51L321.04 311.51M215.43 374.01L284.95 374.01"/>
-    <path stroke="#000" stroke-width="2" d="M308.6,87.5 L308.6,88.17"/>
-    <path stroke="#000" d="M465.38,61.5 L471.38,61.5"/>
-    <path stroke="#000" stroke-dasharray="12.015 12.015" d="M483.39,61.5 L717.68,61.5"/>
-    <path stroke="#000" d="M723.69 61.5L729.69 61.5M429.29 124L435.29 124"/>
-    <path stroke="#000" stroke-dasharray="12.347 12.347" d="M447.64,124 L713.09,124"/>
-    <path stroke="#000" d="M719.26 124L725.26 124M393.21 186.51L399.21 186.51"/>
-    <path stroke="#000" stroke-dasharray="11.854 11.854" d="M411.06,186.51 L713.34,186.51"/>
-    <path stroke="#000" d="M719.26 186.51L725.26 186.51M357.12 249.01L363.12 249.01"/>
-    <path stroke="#000" stroke-dasharray="12.281 12.281" d="M375.4,249.01 L713.12,249.01"/>
-    <path stroke="#000" d="M719.26 249.01L725.26 249.01M321.04 311.51L327.04 311.51"/>
-    <path stroke="#000" stroke-dasharray="11.886 11.886" d="M338.92,311.51 L713.32,311.51"/>
-    <path stroke="#000" d="M719.26 311.51L725.26 311.51M284.95 374.01L290.95 374.01"/>
-    <path stroke="#000" stroke-dasharray="12.238 12.238" d="M303.19,374.01 L713.15,374.01"/>
-    <path stroke="#000" d="M719.26 374.01L725.26 374.01M250.6 435.51L256.6 435.51"/>
-    <path stroke="#000" stroke-dasharray="11.977 11.977" d="M268.57,435.51 L717.7,435.51"/>
-    <path stroke="#000" d="M723.69 435.51L729.69 435.51M500.6.5L506.6.5"/>
-    <path stroke="#000" stroke-dasharray="12.51 12.51" d="M519.11,0.5 L713.01,0.5"/>
-    <path stroke="#000" d="M719.26,0.5 L725.26,0.5"/>
-    <text fill="#000" font-family="Helvetica" font-size="24">
-      <tspan x="576.89" y="412.97">UTILITIES</tspan>
-    </text>
-    <text fill="#000" font-family="Helvetica" font-size="24">
-      <tspan x="516.26" y="351.57">COMPONENTS</tspan>
-    </text>
-    <text fill="#000" font-family="Helvetica" font-size="24">
-      <tspan x="609.44" y="102.97">TOOLS</tspan>
-    </text>
-    <text fill="#000" font-family="Helvetica" font-size="24">
-      <tspan x="585.39" y="166.37">GENERIC</tspan>
-    </text>
-    <text fill="#000" font-family="Helvetica" font-size="24">
-      <tspan x="564.96" y="227.77">ELEMENTS</tspan>
-    </text>
-    <text fill="#000" font-family="Helvetica" font-size="24">
-      <tspan x="589.17" y="289.17">OBJECTS</tspan>
-    </text>
-    <text fill="#000" font-family="Helvetica" font-size="24">
-      <tspan x="577.28" y="43.57">SETTINGS</tspan>
-    </text>
-    <g fill-rule="nonzero" transform="translate(164 61)">
+<svg xmlns="http://www.w3.org/2000/svg" width="750" height="457" viewBox="0 0 750 457">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="750" height="457" fill="#FFF"/>
+    <g transform="translate(10 10)">
+      <g stroke="#000" transform="translate(.6)">
+        <polygon fill="#FFF" fill-rule="nonzero" stroke-width="3" points="250 433.51 0 .5 500 .5"/>
+        <line x1="35.22" x2="464.78" y1="61.5" y2="61.5" stroke-width="3"/>
+        <line x1="70.86" x2="428.69" y1="124" y2="124" stroke-width="3"/>
+        <line x1="107.39" x2="392.61" y1="186.51" y2="186.51" stroke-width="3"/>
+        <line x1="143.47" x2="356.52" y1="249.01" y2="249.01" stroke-width="3"/>
+        <line x1="179.56" x2="320.44" y1="311.51" y2="311.51" stroke-width="3"/>
+        <line x1="214.83" x2="284.35" y1="374.01" y2="374.01" stroke-width="3"/>
+        <line x1="308" x2="308" y1="87.5" y2="88.17" stroke-width="2"/>
+        <line x1="464.78" x2="470.78" y1="61.5" y2="61.5"/>
+        <line x1="482.79" x2="717.08" y1="61.5" y2="61.5" stroke-dasharray="12.015 12.015"/>
+        <line x1="719.09" x2="725.09" y1="61.5" y2="61.5"/>
+        <line x1="428.69" x2="434.69" y1="124" y2="124"/>
+        <line x1="447.04" x2="712.49" y1="124" y2="124" stroke-dasharray="12.347 12.347"/>
+        <line x1="718.66" x2="724.66" y1="124" y2="124"/>
+        <line x1="392.61" x2="398.61" y1="186.51" y2="186.51"/>
+        <line x1="410.46" x2="712.74" y1="186.51" y2="186.51" stroke-dasharray="11.854 11.854"/>
+        <line x1="718.66" x2="724.66" y1="186.51" y2="186.51"/>
+        <line x1="356.52" x2="362.52" y1="249.01" y2="249.01"/>
+        <line x1="374.8" x2="712.52" y1="249.01" y2="249.01" stroke-dasharray="12.281 12.281"/>
+        <line x1="718.66" x2="724.66" y1="249.01" y2="249.01"/>
+        <line x1="320.44" x2="326.44" y1="311.51" y2="311.51"/>
+        <line x1="338.32" x2="712.72" y1="311.51" y2="311.51" stroke-dasharray="11.886 11.886"/>
+        <line x1="718.66" x2="724.66" y1="311.51" y2="311.51"/>
+        <line x1="284.35" x2="290.35" y1="374.01" y2="374.01"/>
+        <line x1="302.59" x2="712.55" y1="374.01" y2="374.01" stroke-dasharray="12.238 12.238"/>
+        <line x1="718.66" x2="724.66" y1="374.01" y2="374.01"/>
+        <line x1="250" x2="256" y1="435.51" y2="435.51"/>
+        <line x1="267.97" x2="717.1" y1="435.51" y2="435.51" stroke-dasharray="11.977 11.977"/>
+        <line x1="719.09" x2="725.09" y1="435.51" y2="435.51"/>
+        <line x1="500" x2="506" y1=".5" y2=".5"/>
+        <line x1="518.51" x2="712.41" y1=".5" y2=".5" stroke-dasharray="12.51 12.51"/>
+        <line x1="718.66" x2="724.66" y1=".5" y2=".5"/>
+      </g>
+      <g fill="#000" fill-rule="nonzero" font-family="Helvetica-Bold, Helvetica" font-size="24" font-weight="bold" transform="translate(527.26 16.57)">
+        <text>
+          <tspan x="59.668" y="397">UTILITIES</tspan>
+        </text>
+        <text>
+          <tspan x=".992" y="334">COMPONENTS</tspan>
+        </text>
+        <text>
+          <tspan x="90.758" y="85">TOOLS</tspan>
+        </text>
+        <text>
+          <tspan x="63.652" y="147">GENERIC</tspan>
+        </text>
+        <text>
+          <tspan x="42.324" y="209">ELEMENTS</tspan>
+        </text>
+        <text>
+          <tspan x="59.645" y="271">OBJECTS</tspan>
+        </text>
+        <text>
+          <tspan x="52.988" y="23">SETTINGS</tspan>
+        </text>
+      </g>
+    </g>
+    <g fill-rule="nonzero" transform="translate(169 71)">
       <circle cx="88.636" cy="94.091" r="88.636" fill="#1C1C20"/>
       <g transform="rotate(-45 99.068 8.417)">
         <polygon fill="#BAFFA9" points="57.835 84.958 57.835 70.998 76.183 59.83 57.835 48.263 57.835 34.701 99.716 59.83"/>
